@@ -1,6 +1,5 @@
 # The-RAP-Algorithm
 
-# Programming Language of choice
 The programming language we are using for the RAP Algorithm is Julia. You can find a full documentation and a link to download Julia here: https://docs.julialang.org/en/v1/
 
 You will need to add Julia to your path. To do this, find how Julia is called on your computer by entering the following command into your command line tool and searching for Julia:
