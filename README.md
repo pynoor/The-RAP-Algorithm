@@ -7,11 +7,11 @@ You will need to add Julia to your path. To do this, find how Julia is called on
 
 $ is -a /Applications/
 
-Let’s assume the name for Julia in your computer is “Julia-1.8.app”. Then, enter the following commands into your command line tool:
+Let’s assume the name for Julia in your computer is “Julia-1.8.app”. Then, enter the following commands into your command line tool: 
 
-$ sudp mkdir -p/usr/local/bin
-$ sudo rm -f /usr/local/bin/Julia
-$ sudo ln -s/Applications/Julia-1.8.app/Contents/Resources/Julia/bin/  Julia/usr/local/bin/julia$
+$ sudp mkdir -p/usr/local/bin <br />
+$ sudo rm -f /usr/local/bin/Julia <br />
+$ sudo ln -s/Applications/Julia-1.8.app/Contents/Resources/Julia/bin/  Julia/usr/local/bin/julia$ <br />
 
 
 You will also need to install Jupyter Notebooks, which is a web-based interactive development environment to run the code. A guide to installing Jupyter notebooks can be found here: https://jupyter.org/install
